@@ -1,4 +1,4 @@
-# Encode-Decode Project
+# Encode-Decode
 
 ## Overview
 
